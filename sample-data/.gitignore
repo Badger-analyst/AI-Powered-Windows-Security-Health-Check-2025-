@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Logs & CSVs (keep only sample-data)
+*.log
+*.csv
+!sample-data/*.csv
+
+# Windows
+Thumbs.db
+desktop.ini
